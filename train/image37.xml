@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image37.jpg</filename>
+	<path>/home/gus/Documents/git/search-rescue_victims_dataset/images/image37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>victim</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>324</ymin>
+			<xmax>468</xmax>
+			<ymax>464</ymax>
+		</bndbox>
+	</object>
+</annotation>

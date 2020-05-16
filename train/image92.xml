@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>image92.jpg</filename>
+	<path>/home/gus/Documents/git/search-rescue_victims_dataset/images/image92.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>victim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>355</xmin>
+			<ymin>493</ymin>
+			<xmax>461</xmax>
+			<ymax>713</ymax>
+		</bndbox>
+	</object>
+</annotation>
