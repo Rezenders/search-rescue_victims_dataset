@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/gus/Documents/git/search-rescue_victims_dataset/training/model.ckpt-4088"
+all_model_checkpoint_paths: "/home/gus/Documents/git/search-rescue_victims_dataset/training/model.ckpt-3439"
+all_model_checkpoint_paths: "/home/gus/Documents/git/search-rescue_victims_dataset/training/model.ckpt-3601"
+all_model_checkpoint_paths: "/home/gus/Documents/git/search-rescue_victims_dataset/training/model.ckpt-3764"
+all_model_checkpoint_paths: "/home/gus/Documents/git/search-rescue_victims_dataset/training/model.ckpt-3926"
+all_model_checkpoint_paths: "/home/gus/Documents/git/search-rescue_victims_dataset/training/model.ckpt-4088"
