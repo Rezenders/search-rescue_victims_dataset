@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>3 (2).png</filename>
+	<path>/home/gus/Documents/git/search-rescue_victims_dataset/images/new_images/3 (2).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>286</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>victim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>17</ymin>
+			<xmax>222</xmax>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+</annotation>

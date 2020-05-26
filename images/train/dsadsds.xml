@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>dsadsds.png</filename>
+	<path>/home/gus/Documents/git/search-rescue_victims_dataset/images/new_images/dsadsds.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>540</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>victim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>341</xmin>
+			<ymin>81</ymin>
+			<xmax>621</xmax>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+</annotation>

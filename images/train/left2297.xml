@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new_images</folder>
+	<filename>left2297.jpg</filename>
+	<path>/home/gus/Documents/git/search-rescue_victims_dataset/images/new_images/left2297.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>victim</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>1</ymin>
+			<xmax>417</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

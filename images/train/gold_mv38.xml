@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>gold_mv38.jpg</filename>
+	<path>/home/gus/Documents/git/search-rescue_victims_dataset/images/train/gold_mv38.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>720</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>victim</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>503</ymin>
+			<xmax>654</xmax>
+			<ymax>688</ymax>
+		</bndbox>
+	</object>
+</annotation>
